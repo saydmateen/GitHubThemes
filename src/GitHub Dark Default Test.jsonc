@@ -516,8 +516,8 @@
 		//"activityBar.activeBackground": null,
 		//"activityBar.activeFocusBorder": null,
 		//"button.border": null,
-		//"contrastActiveBorder": null,
-		//"contrastBorder": null,
+		//"contrastActiveBorder": "#000000",
+		//"contrastBorder": "#000000",
 		//"debugToolBar.border": null,
 		//"diffEditor.border": null,
 		//"diffEditor.insertedTextBorder": null,
@@ -583,8 +583,8 @@
 		//"toolbar.hoverOutline": null,
 		//"walkThrough.embeddedEditorBackground": null,
 		//"welcomePage.background": null,
-		//"window.activeBorder": null,
-		//"window.inactiveBorder": null
+		"window.activeBorder": "000000",
+		"window.inactiveBorder": "000000"
 	},
 	"tokenColors": [
 		{

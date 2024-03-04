@@ -51,9 +51,9 @@
       <Link>Resources\LICENSE</Link>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <None Include="GitHub Dark Default.jsonc">
+    <None Include="GitHub Dark Default Test.jsonc">
       <Generator>ThemeConverter</Generator>
-      <LastGenOutput>GitHub Dark Default.pkgdef</LastGenOutput>
+      <LastGenOutput>GitHub Dark Default Test.pkgdef</LastGenOutput>
     </None>
     <None Include="GitHub Dark Dimmed.jsonc">
       <Generator>ThemeConverter</Generator>
@@ -84,10 +84,10 @@
     <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.1.10-preview1" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="GitHub Dark Default.pkgdef">
+    <Content Include="GitHub Dark Default Test.pkgdef">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>GitHub Dark Default.jsonc</DependentUpon>
+      <DependentUpon>GitHub Dark Default Test.jsonc</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
