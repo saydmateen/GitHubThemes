@@ -1,6 +1,6 @@
 # GitHub themes for Visual Studio
 
-[![Build status
+* Note: This is a forked repo and the main change is removing the default purple borders. Other than that the theme is same as the original.  
 
 Download the extension at the
 [VS Gallery](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitHubThemes)
